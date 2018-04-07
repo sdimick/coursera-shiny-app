@@ -5,8 +5,8 @@ account: sdimick
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 317462
-bundleId: 1307774
+bundleId: 1307801
 url: https://sdimick.shinyapps.io/rain-app/
-when: 1523136516.64276
+when: 1523137956.78013
 asMultiple: FALSE
 asStatic: FALSE
