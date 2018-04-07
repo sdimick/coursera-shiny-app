@@ -1,2 +1,2 @@
 #ignore mac folder preferences
-.DS_Store
+*.DS_Store

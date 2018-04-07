@@ -81,3 +81,5 @@ Using the App
 - A visual of the historic data is generated for tomorrow's precipitation status for the selected month and status of today's precipitation
 
 ### [Go to the App!](https://sdimick.shinyapps.io/rain-app/)
+
+(*... and check out the code for the app and presentation [here](https://github.com/sdimick/coursera-shiny-app).*)
